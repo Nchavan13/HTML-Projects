@@ -1,0 +1,32 @@
+*{
+    margin: 15px;
+    padding: 15px;
+    background-color: pink;
+
+}
+
+/* tag selector  */
+
+h1{
+    color: red;
+    background-color: bisque;
+}
+
+p{
+    color: blue;
+    font-size: 15px;
+    background-color: yellow;
+}
+
+/* id selector  */
+#first{
+
+    color: purple;
+    background-color: darkgrey;
+}
+/* class selectors  */
+
+.c1{
+    color: lightcoral;
+    background-color:floralwhite;
+}
